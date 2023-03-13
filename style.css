@@ -1,0 +1,17 @@
+.body{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+    color: darkolivegreen;
+}
+
+.logo{
+    font-size: 20px;
+}
+.ul{
+    display: flex;
+
+}
